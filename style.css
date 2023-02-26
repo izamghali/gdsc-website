@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand {
+}
+
+.navbar {
+    padding-inline: 8.375em; /* 134px */
+    border-bottom: solid #D9D9D9;
+}

@@ -23,7 +23,6 @@ html {
 
 /* meet the team */
 .team-illustration-box {
-    /* border: solid red; */
     width: 18.75em; /* 300px */
     height: 18.75em; /* 300px */
     background-color: var(--illustration-bg);

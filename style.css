@@ -3,6 +3,11 @@
     padding: 0px;
 }
 
+html {
+    /* css variables */
+    /* --google-blue: ; */
+}
+
 .navbar-brand {
 }
 

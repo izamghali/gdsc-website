@@ -115,3 +115,59 @@ html {
     font-size: 30px;    
     width: 75%;
 }
+
+/* oval shape */
+.oval {
+    width: 18px;
+    height: 13px;
+    background-color: #EA4335;
+    border-radius: 50%;
+}
+  
+.oval1 {
+    width: 26px;
+    height: 16px;
+    background-color: #FBBC04;
+    border-radius: 50%;
+}
+.oval2 {
+    width: 28px;
+    height: 18px;
+    background-color: #0F9D58;
+    border-radius: 50%;
+}
+.oval3 {
+    width: 34px;
+    height: 22px;
+    background-color: #4285F4;
+    border-radius: 50%;
+}
+.oval4 {
+    width: 42px;
+    height: 25px;
+    background-color: #EA4335;
+    border-radius: 50%;
+}
+.oval5 {
+    width: 53px;
+    height: 26px;
+    background-color: #FBBC04;
+    border-radius: 50%;
+}
+.oval6 {
+    width: 88px;
+    height: 26px;
+    background-color: #0F9D58;
+    border-radius: 50%;
+}
+.oval7 {
+    width: 128px;
+    height: 26px;
+    background-color: #4285F4;
+    border-radius: 50%;
+}
+.oval, .oval1, .oval2, .oval3, .oval4, .oval5, .oval6, .oval7 {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
